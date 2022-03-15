@@ -66,7 +66,7 @@
     "@unicef-polymer/etools-table": "^1.0.4",
     "@webcomponents/webcomponentsjs": "^2.0.0",
     "lit-element": "^2.3.1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "moment": "^2.27.0",
     "pwa-helpers": "^0.9.1",
     "redux": "^4.0.5",
